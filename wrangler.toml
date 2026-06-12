@@ -1,0 +1,6 @@
+name = "pt-router"
+compatibility_date = "2026-06-12"
+main = "src/index.js"
+
+# No [vars] needed — BOT_TOKEN is a secret
+# Add KV or other bindings later only if they earn their place (autophagy)

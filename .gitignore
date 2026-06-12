@@ -1,0 +1,15 @@
+# Cloudflare Workers
+.wrangler/
+dist/
+node_modules/
+
+# Secrets & env
+.env
+.env.*
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
